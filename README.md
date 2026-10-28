@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/akashvenkey">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1E2E,4338CA,7C3AED&height=220&section=header&text=Akash%20Venkatesh&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2C%20Data%20Analytics%20%26%20Full-Stack%20Engineer&descSize=16&descAlignY=60&descAlign=50" alt="Akash Venkatesh Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Akash Venkatesh Banner" width="100%" />
 </a>
 
 ### 🔗 **GitHub Profile:** [https://github.com/akashvenkey](https://github.com/akashvenkey)
@@ -80,7 +80,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Deep-Learning-">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=311042,6B21A8,9333EA&height=180&section=header&text=Deep%20Learning%20Lab&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Neural%20Activation%20Functions%2C%20Mathematical%20Formulations%20%26%20AI%20Ethics&descSize=14&descAlignY=62&descAlign=50" alt="Deep Learning Lab Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Deep Learning Lab Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/Deep-Learning-`](https://github.com/akashvenkey/Deep-Learning-)
@@ -93,7 +93,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Business-Analytics.3">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=78350F,D97706,FBBF24&height=180&section=header&text=Superstore%20BI%20Analytics&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20Performance%20Dashboards%2C%20DAX%20Measures%20%26%20KPI%20Diagnostics&descSize=14&descAlignY=62&descAlign=50" alt="Superstore BI Analytics Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Superstore BI Analytics Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/Business-Analytics.3`](https://github.com/akashvenkey/Business-Analytics.3)
@@ -106,7 +106,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Artificial-intelligence">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=042F2E,0F766E,2DD4BF&height=180&section=header&text=Sustainable%20Agri%20AI&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Resource%20Optimization%2C%20Eco-Farming%20%26%20Predictive%20Systems&descSize=14&descAlignY=62&descAlign=50" alt="Sustainable Agri AI Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Sustainable Agri AI Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/Artificial-intelligence`](https://github.com/akashvenkey/Artificial-intelligence)
@@ -119,7 +119,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/project-fsd">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=881337,BE123C,FB7185&height=180&section=header&text=Full-Stack%20Web%20Suites&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Clinical%20Hospital%20Systems%2C%20Media%20Platforms%20%26%20Secure%20Portals&descSize=14&descAlignY=62&descAlign=50" alt="Full-Stack Web Suites Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Full-Stack Web Suites Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/project-fsd`](https://github.com/akashvenkey/project-fsd)
@@ -132,7 +132,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/projects">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=180&section=header&text=Web%20Application%20Suites&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Responsive%20Portals%20for%20Food%20Cafe%2C%20Healthcare%20%26%20Rapido%20Mobility&descSize=14&descAlignY=62&descAlign=50" alt="Web Application Suites Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Web Application Suites Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/projects`](https://github.com/akashvenkey/projects) | 🚀 **Live Demo:** [akashvenkey.github.io/projects](https://akashvenkey.github.io/projects/)
@@ -145,7 +145,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/project-">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=180&section=header&text=Enterprise%20DWM%20Engine&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Data%20Warehousing%2C%20OLAP%20Multidimensional%20Cubes%20%26%20Pattern%20Mining&descSize=14&descAlignY=62&descAlign=50" alt="Enterprise DWM Engine Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Enterprise DWM Engine Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/project-`](https://github.com/akashvenkey/project-)
@@ -158,7 +158,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/WEKA">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,047857,10B981&height=180&section=header&text=WEKA%20Data%20Mining%20Lab&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Classification%2C%20Clustering%2C%20Association%20Rules%20%26%20ARFF%20Pipelines&descSize=14&descAlignY=62&descAlign=50" alt="WEKA Data Mining Lab Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="WEKA Data Mining Lab Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/WEKA`](https://github.com/akashvenkey/WEKA)
@@ -171,7 +171,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Business-Analytics">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=451A03,92400E,D97706&height=180&section=header&text=Business%20Analytics%20Core&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Strategic%20KPI%20Modeling%2C%20Statistical%20Inference%20%26%20Decision%20Intelligence&descSize=14&descAlignY=62&descAlign=50" alt="Business Analytics Core Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Business Analytics Core Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/Business-Analytics`](https://github.com/akashvenkey/Business-Analytics)
@@ -184,7 +184,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Business-Analytics.1">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=713F12,CA8A04,FDE047&height=180&section=header&text=Financial%20%26%20Market%20Analytics&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Advanced%20EDA%2C%20Customer%20Segmentation%20%26%20Predictive%20Revenue%20Modeling&descSize=14&descAlignY=62&descAlign=50" alt="Financial & Market Analytics Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Financial & Market Analytics Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/Business-Analytics.1`](https://github.com/akashvenkey/Business-Analytics.1)
@@ -197,7 +197,7 @@ Driven by analytical rigor and clean system architecture, my engineering philoso
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Akash-v">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,1E3A8A,3B82F6&height=180&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20%26%20AI%20Engineering%20Showcase&descSize=14&descAlignY=62&descAlign=50" alt="Engineering Hub Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=220&section=header&text=Akash%20V%20%7C%20Engineering%20Hub&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Development%2C%20Data%20Systems%20and%20AI%20Engineering%20Showcase&descSize=16&descAlignY=60&descAlign=50" alt="Engineering Hub Banner" width="100%" />
 </a>
 
 🔗 **Source Link:** [`https://github.com/akashvenkey/Akash-v`](https://github.com/akashvenkey/Akash-v)
@@ -250,6 +250,6 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1E2E,4338CA,7C3AED&height=100&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=100&section=footer" alt="Footer Banner" width="100%" />
 
 </div>
